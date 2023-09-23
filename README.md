@@ -7,7 +7,7 @@ Set of algorithms implemented during the course.
 
 ## 🛠️ Software used
 
-This project was implemented in Python.
+The algorithms were implemented in Python.
 
 ## ✒️ Authors
 
