@@ -1,5 +1,5 @@
 # Operations-Research
-Operations Research Course (RO202)
+Operations Research Course
 
 ## 📋 Description
 
